@@ -13,7 +13,7 @@ cd path-to-ruby-scraper
 docker run -it --rm -v "$(pwd)":/repo hecticjeff/morph-ruby-runner
 ```
 
-Then you should have the data.sqlite file that the scraper produced in the current directory.
+Then you should have the `data.sqlite` file that the scraper produced in the current directory.
 
 ## License
 
